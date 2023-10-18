@@ -1,6 +1,5 @@
 # 洛谷群发
-
-## LuoguGroupSend
+LuoguGroupSend
 
 使用说明：
 
