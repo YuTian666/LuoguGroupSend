@@ -2,7 +2,7 @@ import requests
 import time
 users = [123,123,123,123] # 设置目标的uid
 cookie = "xxxxx" # 设置cookie
-login_uid=937218 # 设置自己的UID
+login_uid = 114514 # 设置自己的UID
 csrf-token = "" # 设置csef-token，直接使用getcsrf函数也可以获取
 msg = "这是由_YuTian_制作的群发软件，基于了董乐山2020的Bot开源程序"  # 设置发送消息
 login_cookie = '__client_id=' + cookie + '; login_referer=https%3A%2F%2Fwww.luogu.com.cn%2F; _uid=' + str(login_uid) # 初始化Login_cookie的值
